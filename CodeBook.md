@@ -1,5 +1,5 @@
 ###Code Book
-#ID      
+ID      
           The identified number for different subjects. The range is one to thirty.
 #ACTIVITY  
           Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone.
