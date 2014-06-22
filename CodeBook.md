@@ -11,4 +11,4 @@
 2. Merge two datasets.
 3. Extracts only the measurements on the mean and standard deviation for each measurement for the time domain signals.
 4. Appropriately labels the data set with descriptive variable names. 
-5.Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
