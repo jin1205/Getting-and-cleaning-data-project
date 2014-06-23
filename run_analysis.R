@@ -50,3 +50,4 @@ Activity <- as.character(Activity)
 firsttwocols <- cbind(id, Activity)
 tidy_data <- cbind(firsttwocols, sp_data)
 rownames(tidy_data) <- 1:180
+write.table(tidy_data, file="./TidyDataset.txt", sep = " ")
